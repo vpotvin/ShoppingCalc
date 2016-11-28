@@ -1,4 +1,4 @@
-package edu.uco.captainplanet.shoppingcalc;
+package com.gmail.vdpotvin.shoppingcalc;
 
 import android.app.Activity;
 import android.os.Bundle;
